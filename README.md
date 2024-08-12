@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/shivansh00930893" target="blank"><img src="https://img.shields.io/twitter/follow/shivansh00930893?logo=twitter&style=for-the-badge" alt="shivansh00930893" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shivansh00930893" target="blank"><img src="https://img.shields.io/twitter/follow/shivansh00930893?logo=twitter&style=for-the-badge" alt="shivansh846" /></a> </p>
 
 - 📫 How to reach me **Shivanshtripathi846@gmail.com**
 
