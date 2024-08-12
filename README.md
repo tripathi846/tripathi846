@@ -5,13 +5,13 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/shivansh846" target="blank"><img src="https://img.shields.io/twitter/follow/shivansh00930893?logo=twitter&style=for-the-badge" alt="shivansh846" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shivansh846" target="blank"><img src="https://img.shields.io/twitter/follow/shivansh846?logo=twitter&style=for-the-badge" alt="shivansh846" /></a> </p>
 
 - 📫 How to reach me **Shivanshtripathi846@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivansh00930893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivansh00930893" height="30" width="40" /></a>
+<a href="https://twitter.com/shivansh846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivansh846" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivanshtripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanshtripathi" height="30" width="40" /></a>
 <a href="https://instagram.com/shivansh_tripathi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivansh_tripathi2004" height="30" width="40" /></a>
 </p>
